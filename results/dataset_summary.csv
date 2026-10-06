@@ -1,0 +1,5 @@
+subset,n_rows,n_gold_ids,n_distinct_gold,pct_multi_gold,q_words_mean,q_words_median,q_words_p95,q_words_max,a_words_mean,a_words_median,a_words_p95,a_words_max,doc_words_mean,doc_words_median,doc_words_p95,doc_words_max
+wixqa_synthetic,6221,6221.0,6221.0,0.0,14.1,14.0,20.0,35.0,104.9,75.0,306.0,1024.0,,,,
+wixqa_expertwritten,200,258.0,209.0,26.0,19.9,18.0,41.0,62.0,149.5,121.5,383.04999999999995,890.0,,,,
+wixqa_simulated,200,230.0,160.0,13.5,12.3,12.0,20.0,37.0,43.7,44.0,71.0,91.0,,,,
+wix_kb_corpus,6221,,,,,,,,,,,,376.5,201.0,1216.0,6653.0

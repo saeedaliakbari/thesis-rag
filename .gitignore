@@ -1,0 +1,14 @@
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large or regenerable artifacts (decide case by case later)
+models/
+data/raw/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
